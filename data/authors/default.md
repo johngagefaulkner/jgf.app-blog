@@ -1,16 +1,16 @@
 ---
-name: Tails Azimuth
+name: Gage Faulkner
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Client Solutions Engineer
+company: City of Atlanta
+email: johngagefaulkner@gmail.com
+twitter: https://twitter.com/johngagef
+linkedin: https://www.linkedin.com/in/johngagefaulkner
+github: https://github.com/johngagefaulkner
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Gage Faulkner is a Client Solutions Engineer for the City of Atlanta (specifically, Atlanta City Hall, Atlanta Police Department, Department of Watershed and Hartsfield-Jackson Atlanta International Airport) with a heavy focus on Microsoft Endpoint Manager (Intune), Microsoft Defender for Endpoint (ATP), Microsoft 365 and Microsoft Azure infrastructure.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
